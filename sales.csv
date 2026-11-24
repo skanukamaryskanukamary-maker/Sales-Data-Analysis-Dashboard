@@ -1,0 +1,7 @@
+OrderDate,Region,Product,Quantity,UnitPrice
+2025-01-05,North,Laptop,2,750
+2025-01-12,South,Mouse,10,25
+2025-02-03,East,Keyboard,5,45
+2025-02-18,West,Laptop,1,750
+2025-03-08,North,Monitor,3,180
+2025-03-21,South,Keyboard,4,45
